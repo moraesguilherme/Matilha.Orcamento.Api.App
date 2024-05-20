@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "Orcamento.Controllers.ClienteController",
+    "Method": "BuscarClientes",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "telefone",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.OrcamentoController",
+    "Method": "CriarOrcamento",
+    "RelativePath": "api/Orcamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orcamento",
+        "Type": "Orcamento.Models.Entities.OrcamentoEntrada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.OrcamentoController",
+    "Method": "BuscarOrcamentoPorNumeroProposta",
+    "RelativePath": "api/Orcamento/{numeroProposta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroProposta",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.OrcamentoController",
+    "Method": "AtualizaOrcamentoAsync",
+    "RelativePath": "api/Orcamento/{orcamentoId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orcamentoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "orcamento",
+        "Type": "Orcamento.Models.Entities.OrcamentoEntrada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.OrcamentoController",
+    "Method": "AtualizaStatusOrcamentoAsync",
+    "RelativePath": "api/Orcamento/{orcamentoId}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orcamentoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "novoStatus",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.OrcamentoController",
+    "Method": "InsertPrecoTemporada",
+    "RelativePath": "api/Orcamento/precos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "precoTemporada",
+        "Type": "Orcamento.Models.Entities.PrecoTemporada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.TemporadaController",
+    "Method": "CadastrarAltaTemporadaAsync",
+    "RelativePath": "api/Temporada/AltaTemporada",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "altaTemporada",
+        "Type": "Orcamento.Models.Entities.AltaTemporada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.TemporadaController",
+    "Method": "ObterTodasAsDatasAltaTemporada",
+    "RelativePath": "api/Temporada/datas-alta-temporada",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orcamento.Controllers.TemporadaController",
+    "Method": "ExcluirDataAltaTemporada",
+    "RelativePath": "api/Temporada/datas-alta-temporada/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

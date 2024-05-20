@@ -1,0 +1,15 @@
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\bin\Debug\net8.0\Matilha.Orcamento.Infrastructure.deps.json
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\bin\Debug\net8.0\Matilha.Orcamento.Infrastructure.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\bin\Debug\net8.0\Matilha.Orcamento.Infrastructure.pdb
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\bin\Debug\net8.0\Matilha.Orcamento.Domain.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\bin\Debug\net8.0\Matilha.Orcamento.Domain.pdb
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.csproj.AssemblyReference.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.AssemblyInfoInputs.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.AssemblyInfo.cs
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha..56E15301.Up2Date
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\refint\Matilha.Orcamento.Infrastructure.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\Matilha.Orcamento.Infrastructure.pdb
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Infrastructure\obj\Debug\net8.0\ref\Matilha.Orcamento.Infrastructure.dll

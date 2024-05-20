@@ -1,0 +1,12 @@
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\bin\Debug\net8.0\Matilha.Orcamento.Domain.deps.json
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\bin\Debug\net8.0\Matilha.Orcamento.Domain.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\bin\Debug\net8.0\Matilha.Orcamento.Domain.pdb
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.csproj.AssemblyReference.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.AssemblyInfoInputs.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.AssemblyInfo.cs
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.csproj.CoreCompileInputs.cache
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\refint\Matilha.Orcamento.Domain.dll
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\Matilha.Orcamento.Domain.pdb
+C:\App Matilha\Back-end\Matilha.Orcamento\Matilha.Orcamento.Domain\obj\Debug\net8.0\ref\Matilha.Orcamento.Domain.dll
